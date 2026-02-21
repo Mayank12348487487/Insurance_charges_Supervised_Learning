@@ -16,7 +16,7 @@ app.add_middleware(
 )
 
 # Load trained model
-model = joblib.load("D:\SupervideLearning\model.pkl")
+model = joblib.load("model.pkl")
 
 # Input schema
 class InputData(BaseModel):
