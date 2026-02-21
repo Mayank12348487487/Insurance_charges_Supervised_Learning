@@ -1,5 +1,4 @@
-# 🏥 Insurance Charge Predictor 
-##WebLink 
+# 🏥 Insurance Charge Predictor  
 (https://insurancechargepredictions.onrender.com/)
 
 > A full-stack Machine Learning web application that estimates annual medical insurance charges based on personal health and demographic data.
